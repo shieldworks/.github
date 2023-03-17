@@ -24,6 +24,7 @@ Open Source is better together:
 
 * **Homepage**: <https://aegis.ist>
 * **Documentation**: <https://aegis.ist/docs/>
+* **Architecture**: <https://aegis.ist/docs/architecture/>
 * **Changelog**: <https://aegis.ist/changelog/>
 * **Contact**: <https://aegis.ist/contact/>
 * **Media Kit**: <https://aegist.ist/media/>
