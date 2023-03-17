@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Aegis](assets/aegis-icon.png)
+![Aegis](profile/assets/aegis-icon.png)
 
 Welcome to ShieldWorks
 
