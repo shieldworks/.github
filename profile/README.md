@@ -14,12 +14,17 @@ We make all **Aegis** plans publicly and transparently. You are more than welcom
 [Here is the **Aegis** planning board](https://github.com/orgs/shieldworks/projects/1/views/4)
 where you can see near-term, mid-term, and long-term term plans for **Aegis**.
 
+## Community
+
+Open source is better together:
+
+[**Join Aegis’ Slack Workspace**][slack-invite].
+
 ## Useful Links
 
 * **Homepage**: <https://aegis.ist>
 * **Documentation**: <https://aegis.ist/docs/>
 * **Changelog**: <https://aegis.ist/changelog/>
-* **Community**: [**Join Aegis’ Slack Workspace**][slack-invite]
 * **Contact**: <https://aegis.ist/contact/>
 * **Media Kit**: <https://aegist.ist/media/>
 
