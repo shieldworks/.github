@@ -16,7 +16,7 @@ where you can see near-term, mid-term, and long-term term plans for **Aegis**.
 
 ## Community
 
-Open source is better together:
+Open Source is better together:
 
 [**Join Aegis’ Slack Workspace**][slack-invite].
 
