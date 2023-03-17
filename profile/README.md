@@ -1,13 +1,15 @@
-## Hi there 👋
+## Welcome to ShieldWorks 👋
 
 ![Aegis](profile/assets/aegis-icon.png)
 
-Welcome to ShieldWorks
-
-ShieldWorks is the GitHub organization behind [Aegis](https://aegis.ist).
+ShieldWorks is the GitHub organization behind [**Aegis**](https://aegis.ist).
 
 [Aegis](https://aegis.ist) is a Kubernetes-native Secrets Manager that keeps
 your secrets… secret.
+
+## Planning Board
+
+[Here is the **Aegis** planning board where you can see near, mid, and long term plans for **Aegis**](https://github.com/orgs/shieldworks/projects/1/views/4).
 
 ## Useful Links
 
