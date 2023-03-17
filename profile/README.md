@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Aegis](/assets/aegis-icon.png)
+![Aegis](assets/aegis-icon.png)
 
 Welcome to ShieldWorks
 
@@ -19,3 +19,4 @@ your secrets… secret.
 * **Media Kit**: <https://aegist.ist/media/>
 
 [slack-invite]: https://join.slack.com/t/aegis-6n41813/shared_invite/zt-1myzqdi6t-jTvuRd1zDLbHX0gN8VkCqg "Join aegis.slack.com"
+
