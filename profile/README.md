@@ -9,8 +9,10 @@ your secrets… secret.
 
 ## Planning Board
 
+We make all **Aegis** plans publicly and transparently. You are more than welcome to join the chat.
+
 [Here is the **Aegis** planning board](https://github.com/orgs/shieldworks/projects/1/views/4)
-where you can see near, mid, and long term plans for **Aegis**.
+where you can see near-term, mid-term, and long-term term plans for **Aegis**.
 
 ## Useful Links
 
