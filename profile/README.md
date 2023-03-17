@@ -1,6 +1,6 @@
-## Welcome to ShieldWorks 👋
-
 ![Aegis](profile/assets/aegis-icon.png)
+
+## Welcome to ShieldWorks 👋
 
 ShieldWorks is the GitHub organization behind [**Aegis**](https://aegis.ist).
 
