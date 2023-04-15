@@ -7,9 +7,9 @@ ShieldWorks is the GitHub organization behind [**Aegis**](https://aegis.ist).
 [**Aegis**](https://aegis.ist) is a Kubernetes-native Secrets Manager that keeps
 your secrets… secret.
 
-## Join the Revolution ✊
+## Empower Our Journey ✊
 
-⭐️ Star **Aegis** to show your support ⭐️
+⭐️ Star **Aegis** to show your support.
 
 ## Planning Board
 
