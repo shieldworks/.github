@@ -9,7 +9,7 @@ your secrets… secret.
 
 ## Join the Revolution ✊
 
-⭐️ **Aegis** to show your support.
+⭐️ Star **Aegis** to show your support ⭐️
 
 ## Planning Board
 
