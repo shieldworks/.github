@@ -9,7 +9,7 @@ your secrets… secret.
 
 ## Empower Our Journey ✊
 
-⭐️ Star **Aegis** to show your support.
+⭐️ Star [**Aegis**](https://aegis.ist) to show your support.
 
 ## Planning Board
 
