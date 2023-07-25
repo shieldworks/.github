@@ -2,36 +2,43 @@
 
 ## Welcome to ShieldWorks 👋
 
-ShieldWorks is the GitHub organization behind [**Aegis**](https://aegis.ist).
+ShieldWorks is the GitHub organization behind **Aegis**.
 
-[**Aegis**](https://aegis.ist) is a cloud-native secrets manager that keeps
+**Aegis** is a cloud-native secrets manager that keeps
 your secrets… secret.
 
-## Empower Our Journey ✊
+## Aegis Has a New Home
 
-⭐️ Star [**Aegis**](https://github.com/ShieldWorks/aegis) to show your support.
+We are excited to announce that [**Aegis** has moved to **VMware Tanzu**
+GitHub organization][new-aegis], where it will continue its journey under a
+new name: [**VMware Secrets Manager for Cloud-Native Apps**][new-aegis].
 
-## Planning Board
+This move is part of our effort to consolidate our projects and provide
+better support and development speed. Under VMware, the project will gain
+increased visibility, robust support, and a thriving ecosystem to
+accelerate its growth.
 
-We make all **Aegis** plans publicly and transparently. You are more than welcome to join the chat.
+**As a result of this transition, this repository is now archived and will no
+longer be maintained**. All the active issues and pull requests will be migrated
+to the new repository. [If you have any issues that have not been migrated,
+feel free to open them in the new repository][new-aegis].
 
-[Here is the **Aegis** planning board](https://github.com/orgs/shieldworks/projects/1/views/4)
-where you can see near-term, mid-term, and long-term term plans for **Aegis**.
+Please note that the core functionality remains the same, though under
+the new organization and project name. Any future updates and enhancements
+will be carried out in the new repository.
 
-## Community
+[For all future activities, please follow the new repository][new-aegis].
 
-Open Source is better together:
+[new-aegis]: https://github.com/vmware-tanzu/secrets-manager "VMware Secrets Manager for Cloud-Native Apps"
 
-[**Join Aegis’ Slack Workspace**][slack-invite].
+We appreciate your understanding and support as we continue to work towards
+providing the best secrets management solution for the known universe.
 
-## Useful Links
+[**For all future activities, please follow the new repository**][new-aegis]. 
 
-* **Homepage**: <https://aegis.ist>
-* **Documentation**: <https://aegis.ist/docs/>
-* **Architecture**: <https://aegis.ist/docs/architecture/>
-* **Changelog**: <https://aegis.ist/changelog/>
-* **Contact**: <https://aegis.ist/contact/>
-* **Media Kit**: <https://aegist.ist/media/>
+We appreciate your understanding and support as we continue to work towards 
+providing the best secrets management solution for the known universe.
 
-[slack-invite]: https://join.slack.com/t/aegis-6n41813/shared_invite/zt-1myzqdi6t-jTvuRd1zDLbHX0gN8VkCqg "Join aegis.slack.com"
+[new-aegis]: https://github.com/vmware-tanzu/secrets-manager "VMware Secrets Manager for Cloud-Native Apps"
+
 
