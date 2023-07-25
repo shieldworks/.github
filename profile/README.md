@@ -7,7 +7,7 @@ ShieldWorks is the GitHub organization behind **Aegis**.
 **Aegis** is a cloud-native secrets manager that keeps
 your secrets… secret.
 
-## Aegis Has a New Home
+## 💁‍♀️ Pssttt… Aegis Has a New Home
 
 We are excited to announce that [**Aegis** has moved to **VMware Tanzu**
 GitHub organization][new-aegis], where it will continue its journey under a
